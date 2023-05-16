@@ -1,0 +1,47 @@
+Non-financially Literate Individual
+Year: 0 Wealth: $-47500
+Year: 1 Wealth: $-31609
+Year: 2 Wealth: $-14426
+Year: 3 Wealth: $-204180
+Year: 4 Wealth: $-182805
+Year: 5 Wealth: $-160414
+Year: 6 Wealth: $-137101
+Year: 7 Wealth: $-112953
+Year: 8 Wealth: $-88039
+Year: 9 Wealth: $-62417
+Year: 10 Wealth: $-36129
+Year: 11 Wealth: $-9210
+Year: 12 Wealth: $18314
+Year: 13 Wealth: $46426
+Year: 14 Wealth: $75114
+Year: 15 Wealth: $104370
+Year: 16 Wealth: $134193
+Year: 17 Wealth: $164584
+Year: 18 Wealth: $195547
+Year: 19 Wealth: $227092
+Year: 20 Wealth: $259229
+Year: 21 Wealth: $291971
+Year: 22 Wealth: $325334
+Year: 23 Wealth: $359335
+Year: 24 Wealth: $393994
+Year: 25 Wealth: $429332
+Year: 26 Wealth: $465373
+Year: 27 Wealth: $502141
+Year: 28 Wealth: $539664
+Year: 29 Wealth: $577968
+Year: 30 Wealth: $616799
+Year: 31 Wealth: $655817
+Year: 32 Wealth: $695024
+Year: 33 Wealth: $734420
+Year: 34 Wealth: $774006
+Year: 35 Wealth: $813784
+Year: 36 Wealth: $853756
+Year: 37 Wealth: $893919
+Year: 38 Wealth: $934278
+Year: 39 Wealth: $974833
+Year: 40 Wealth: $1015587
+TOTAL SAVINGS: $631627.20
+YEARS PAYING RENT: 2
+YEARS PAYING MORTGAGE: 28
+DEBT PAID: $95585.69
+YEARS WITH DEBT: 36 years
